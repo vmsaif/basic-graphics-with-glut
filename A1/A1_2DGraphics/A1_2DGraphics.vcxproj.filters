@@ -11,7 +11,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="A1_2DGraphics.cpp">
+    <ClCompile Include="Program1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Program2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
