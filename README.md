@@ -1,1 +1,4 @@
-# basic-graphics-with-glut
+# Basic Graphics in Glut and OpenGL
+
+## Introduction
+

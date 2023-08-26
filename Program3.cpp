@@ -1,10 +1,6 @@
 /*
 Author: Saif Mahmud
-Student ID: 3433058
 Date : 1 / 25 / 2023
-Course: COMP 390
-TME = 1
-Program : 3
 Description: This program draws a rectangle with four vertices set to red, green, blue, and yellow, color respectively.
 */
 

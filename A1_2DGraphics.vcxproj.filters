@@ -23,10 +23,8 @@
     <ClCompile Include="MyMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="MyMain.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="Program4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

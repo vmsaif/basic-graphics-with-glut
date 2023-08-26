@@ -1,10 +1,7 @@
 /*
 Author: Saif Mahmud
-Student ID: 3433058
 Date : 1 / 25 / 2023
 Course: COMP 390
-TME = 1
-Program : 1
 Description: This program draws 2 houses with a triangle roof 2 times with rotating and 1 house using anti aliasing technique.
 */
 

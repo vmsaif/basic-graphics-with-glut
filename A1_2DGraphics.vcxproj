@@ -24,6 +24,7 @@
     <ProjectGuid>{5f210f0e-eef4-4142-802a-0a1e031f8002}</ProjectGuid>
     <RootNamespace>A12DGraphics</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>basic-graphics-in-opengl</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,9 +140,7 @@
     <ClCompile Include="Program1.cpp" />
     <ClCompile Include="Program2.cpp" />
     <ClCompile Include="Program3.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="MyMain.h" />
+    <ClCompile Include="Program4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

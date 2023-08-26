@@ -1,10 +1,7 @@
 /*
 Author: Saif Mahmud
-Student ID: 3433058
 Date : 1 / 25 / 2023
 Course: COMP 390
-TME = 1
-Program : 2
 Description: This program draws a house with a triangle roof 5 times with translating and rotating.
 */
 
