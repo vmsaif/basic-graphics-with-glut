@@ -2,13 +2,14 @@
 /*
 	Author: Saif Mahmud
 	Date : 3 / 22 / 2023
-	Program : 2
+
+	Program: 4
 	Description: This program draws eight houses with a triangle roofs and a floors using translation, scaling, and rotation to transform 
 				 the houses. The houses are drawn using shapes. 
 */
 
 #include <iostream>
-#include "glut.h"
+#include <GL/glut.h>
 
 namespace Program4 {
 	using namespace std;

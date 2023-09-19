@@ -1,11 +1,13 @@
 /*
-Author: Saif Mahmud
-Date : 1 / 25 / 2023
-Description: This program draws a rectangle with four vertices set to red, green, blue, and yellow, color respectively.
+    Author: Saif Mahmud
+    Date : 1 / 25 / 2023
+
+    Program : 3
+    Description: This program draws a rectangle with four vertices set to red, green, blue, and yellow, color respectively.
 */
 
 #include <iostream>
-#include "glut.h"
+#include <GL/glut.h>
 
 namespace Program3 {
 

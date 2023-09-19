@@ -1,12 +1,13 @@
 /*
-Author: Saif Mahmud
-Date : 1 / 25 / 2023
-Course: COMP 390
-Description: This program draws a house with a triangle roof 5 times with translating and rotating.
+    Author: Saif Mahmud
+    Date : 1 / 25 / 2023
+
+    Program : 2
+    Description: This program draws a house with a triangle roof 5 times with translating and rotating.
 */
 
 #include <iostream>
-#include "glut.h"
+#include <GL/glut.h>
 #include <cmath>
 
 namespace Program2 {

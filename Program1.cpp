@@ -1,12 +1,13 @@
 /*
-Author: Saif Mahmud
-Date : 1 / 25 / 2023
-Course: COMP 390
-Description: This program draws 2 houses with a triangle roof 2 times with rotating and 1 house using anti aliasing technique.
+    Author: Saif Mahmud
+    Date : 1 / 25 / 2023
+
+    Program : 1
+    Description: This program draws 2 houses with a triangle roof 2 times with rotating and 1 house using anti aliasing technique.
 */
 
 #include <iostream>
-#include "glut.h"
+#include <GL/glut.h>
 
 namespace Program1 {
     
